@@ -13,8 +13,8 @@ export default function Home() {
       desc: "Information and metrics related to component 2.",
     },
     {
-      title: "Component 3",
-      desc: "Information and metrics related to component 3.",
+      title: "Predict Cement Strength Under Environmental Conditions",
+      desc: "Utilize machine learning models to predict cement strength based on environmental factors.",
     },
   ];
 
