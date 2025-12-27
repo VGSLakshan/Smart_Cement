@@ -1,0 +1,78 @@
+# ========================
+# Logs
+# ========================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ========================
+# Node / Frontend
+# ========================
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# ========================
+# Editor / OS
+# ========================
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# ========================
+# Virtual Environments
+# ========================
+venv/
+env/
+.env
+.env.*
+
+# ========================
+# ML / Data / Images (CRITICAL)
+# ========================
+data/
+dataset/
+datasets/
+images/
+raw_images/
+processed_images/
+
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+
+*.h5
+*.pt
+*.pth
+*.onnx
+*.npz
+
+# ========================
+# Optional (remove if needed)
+# ========================
+# backend/preschool_research/
+/frontend
